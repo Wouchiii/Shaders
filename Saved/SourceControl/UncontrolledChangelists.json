@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dbell/Documents/Unreal Projects/Shaders_Unreal/Content/Scan1.uasset",
+				"C:/Users/dbell/Documents/Unreal Projects/Shaders_Unreal/Content/Scan2.uasset",
+				"C:/Users/dbell/Documents/Unreal Projects/Shaders_Unreal/Content/Scan3.uasset",
+				"C:/Users/dbell/Documents/Unreal Projects/Shaders_Unreal/Content/Scan4.uasset",
+				"C:/Users/dbell/Documents/Unreal Projects/Shaders_Unreal/Content/Scan5.uasset",
+				"C:/Users/dbell/Documents/Unreal Projects/Shaders_Unreal/Content/Scan6.uasset",
+				"C:/Users/dbell/Documents/Unreal Projects/Shaders_Unreal/Content/voronoi-58e7cd73df64615e3e50333868b6440b.uasset",
+				"C:/Users/dbell/Documents/Unreal Projects/Shaders_Unreal/Content/voronoi-id-6837eaae2783e23284d94642158d8410.uasset",
+				"C:/Users/dbell/Documents/Unreal Projects/Shaders_Unreal/Content/Carte_Set_de_Base_4.uasset",
+				"C:/Users/dbell/Documents/Unreal Projects/Shaders_Unreal/Content/M_CarteRare.uasset",
+				"C:/Users/dbell/Documents/Unreal Projects/Shaders_Unreal/Content/20150221_disintegrate-2-s.uasset",
+				"C:/Users/dbell/Documents/Unreal Projects/Shaders_Unreal/Content/white-58c64ad814caf1abc305e7dc1adf1c09.uasset",
+				"C:/Users/dbell/Documents/Unreal Projects/Shaders_Unreal/Content/NewMaterial.uasset"
+			]
+		}
+	]
+}
